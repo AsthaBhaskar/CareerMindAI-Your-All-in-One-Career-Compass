@@ -1,4 +1,4 @@
-## CareerMind-AI
+## CareerMind-AI: Your All-in-One Career Compass
 This platform leverages advanced AI technologies to empower users with career planning, skill development, and job market navigation. The system integrates personalized roadmap creation, real-time job market analysis, and intelligent matching mechanisms to address challenges faced by modern professionals and job seekers.
 
 **Key Features** 
