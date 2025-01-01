@@ -1,1 +1,1 @@
-# CareerMnd-AI
+# CareerMind-AI
