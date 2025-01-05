@@ -20,6 +20,5 @@ This platform leverages advanced AI technologies to empower users with career pl
 
 * Backend: Flask, Python
 * Frontend: Streamlit
-* Database: ChromaDB for vector storage
 * AI Models: GPT-Neo, Gemini 1.5 Pro
 * Data Handling: Selenium for web scraping, data preprocessing pipelines
